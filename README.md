@@ -2,13 +2,12 @@
 ----------------------
 **FILES USED**
 1.  Python files: 
-
-*   memory\_game.py -- driver file to play game 
-*   game\_base.py -- file to create the game board
-*   card.py-- Game play class to create the card behaviour, manage flipping  
-    of cards and status of the current game
-*   playing\_cards.py -- file for creating and managing the card deck to play with
-*   leaderboard.py -- file to manage the leaderboard with names of the top 8 scorers
+    memory\_game.py -- driver file to play game 
+   game\_base.py -- file to create the game board
+    card.py -- Game play class to create the card behaviour, manage flipping  
+              of cards and status of the current game
+    playing\_cards.py -- file for creating and managing the card deck to play with
+    leaderboard.py -- file to manage the leaderboard with names of the top 8 scorers
 
 2.  Gif files:  
     'quitbutton.gif'  
