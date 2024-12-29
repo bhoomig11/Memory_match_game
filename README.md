@@ -1,8 +1,7 @@
 **MEMORY MATCH GAME** 
 ----------------------
 **FILES USED**
-
-1.  Python files:
+1\.  Python files:
    memory\_game.py -- driver file to play game 
    game\_base.py -- file to create the game board
    card.py -- Game play class to create the card behaviour, manage flipping  
@@ -10,7 +9,7 @@
    playing\_cards.py -- file for creating and managing the card deck to play with
    leaderboard.py -- file to manage the leaderboard with names of the top 8 scorers
 
-3.  Gif files:  
+2\.  Gif files:  
     'quitbutton.gif'  
     'quitmsg.gif'  
     'winner.gif'  
@@ -24,12 +23,11 @@
     'king\_of\_diamonds.gif'  
     'queen\_of\_hearts.gif'  
              
-4.  Txt Files:  
+3\.  Txt Files:  
     'images.txt'  
     'leaderboard\_list.txt'
 
 **DESIGN** 
-
 1\. When the main driver file (memory\_game.py) is called it goes to the game\_outline() function in game\_base.py file. 
     This function creates the play area, status bar, leaderboard area and the quit functionality of the game.
 
@@ -59,5 +57,4 @@
     leaderboard if the game is played successfully. 
 
 **AUTHOR**
-
 BHOOMIKA GUPTA
